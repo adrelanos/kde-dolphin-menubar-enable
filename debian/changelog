@@ -1,3 +1,9 @@
+kde-dolphin-menubar-enable (3:1.2-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Sat, 10 Dec 2016 02:13:44 +0000
+
 kde-dolphin-menubar-enable (3:1.1-1) unstable; urgency=medium
 
   * New upstream version (local package).
